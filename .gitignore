@@ -2,3 +2,4 @@ a.pfd
 directory/*
 *.pdf
 *_midified.txt
+!b.pdf
